@@ -7,7 +7,6 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Aaron Schneider
-          <code className={styles.code}>app/page.tsx</code>
         </p>
       </div>
 
